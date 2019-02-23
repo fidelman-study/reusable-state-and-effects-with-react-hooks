@@ -1,10 +1,13 @@
 {
-  "name": "reusable-state-and-effects-with-react-hooks",
+  "name": "react-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "emotion": "^9.2.12",
+    "lodash.uniqueid": "^4.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-emotion": "^9.2.12",
     "react-scripts": "2.1.5"
   },
   "scripts": {
